@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[music]]></title>
     <url>%2Fmusic%2F</url>
-    <content type="text"><![CDATA[var ap = new APlayer({ element: document.getElementById("aplayer-IWUnbOAY"), narrow: false, autoplay: false, showlrc: false, music: { title: "晴天", author: "Jay", url: "qingtian.mp3", pic: "", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[var ap = new APlayer({ element: document.getElementById("aplayer-wkJKqouW"), narrow: false, autoplay: false, showlrc: false, music: { title: "晴天", author: "Jay", url: "qingtian.mp3", pic: "", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>Entertainment</category>
       </categories>
